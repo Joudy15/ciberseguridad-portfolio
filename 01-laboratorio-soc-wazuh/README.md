@@ -166,16 +166,19 @@ Una vez aceptado el aviso, se accedió correctamente al panel web de Wazuh.
 
 ## Evidencias
 
-Las evidencias visuales del proyecto se almacenarán en la carpeta `capturas`.
+Las evidencias visuales del proyecto se almacenan en la carpeta `capturas`.
 
-Capturas previstas:
+### Acceso al Wazuh Dashboard
 
-* Dashboard de Wazuh accesible.
-* Servicios principales activos.
-* Puertos principales en escucha.
-* Agentes conectados, en fases posteriores.
+![Dashboard de Wazuh](./capturas/01-dashboard-wazuh.png.png)
 
-Cuando las capturas estén subidas, se referenciarán en esta sección.
+### Servicios principales activos
+
+![Servicios activos de Wazuh](./capturas/02-servicios-activos.png)
+
+### Puertos principales de Wazuh
+
+![Puertos principales de Wazuh](./capturas/03-puertos-wazuh.png)
 
 ---
 
@@ -195,12 +198,11 @@ Para cada alerta o evento se documentará:
 
 ## Próximos pasos
 
-* Crear carpeta de capturas.
-* Subir evidencias visuales de la instalación.
 * Añadir un agente Linux.
 * Añadir un agente Windows.
 * Generar eventos controlados.
 * Analizar las primeras alertas desde el punto de vista de un analista SOC N1.
+* Documentar evidencias adicionales del laboratorio.
 
 ---
 
