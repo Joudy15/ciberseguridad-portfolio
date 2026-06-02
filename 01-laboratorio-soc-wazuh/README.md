@@ -172,19 +172,13 @@ Las evidencias visuales del proyecto se almacenan en la carpeta `capturas`.
 
 ![Dashboard de Wazuh](./capturas/01-dashboard-wazuh.png)
 
-[Ver captura del dashboard](./capturas/01-dashboard-wazuh.png)
-
 ### Servicios principales activos
 
 ![Servicios activos de Wazuh](./capturas/02-servicios-activos.png)
 
-[Ver captura de servicios activos](./capturas/02-servicios-activos.png)
-
 ### Puertos principales de Wazuh
 
 ![Puertos principales de Wazuh](./capturas/03-puertos-wazuh.png)
-
-[Ver captura de puertos principales](./capturas/03-puertos-wazuh.png)
 
 ---
 
